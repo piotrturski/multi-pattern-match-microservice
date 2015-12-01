@@ -1,0 +1,4 @@
+logging:
+  path: ./../logs
+  level:
+    net.piotrturski.patternmatcher.multimatch: ERROR

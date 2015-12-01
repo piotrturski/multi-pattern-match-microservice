@@ -1,2 +1,5 @@
 .*
 !/.gitignore
+/target/
+*.iml
+/build/
